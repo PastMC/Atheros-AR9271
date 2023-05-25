@@ -31,4 +31,4 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
            name: export
-           path: /Users/runner/work/Atheros-AR9271/Atheros-AR9271/
+           path: /Users/runner/Library/Developer/Xcode/DerivedData/
